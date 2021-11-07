@@ -1,0 +1,18 @@
+.capabilities{
+    font-size:30px;
+    font-family: cursive;
+}
+.jk{
+    background-color: rgb(250, 241, 241);
+}
+.reason h2{
+    color: #17436D;
+}
+.reason p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.reason img{
+    border-radius: 20px;
+    height: 200px;
+    width:300px;
+}

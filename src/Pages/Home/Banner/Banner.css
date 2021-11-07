@@ -1,0 +1,14 @@
+.banner img{
+    height:550px;
+ }
+ .banner h3{
+    color: aqua;
+    font-size:55px;
+    font-weight:600;
+    font-family: 'Times New Roman', Times, serif;
+}
+.banner p{
+    font-size:45px;
+    font-weight: 500;
+    font-family:monospace;
+}

@@ -1,0 +1,27 @@
+.manage-services img{
+   padding-top:7px;
+   padding-bottom:9px;
+   border-radius:5%;
+   /* height:250px; */
+   box-shadow:0px 0px  20px whitesmoke;
+    
+ }
+ .manage-service{
+   width:300px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border: 1px solid rgb(248, 246, 246);
+    border-radius:15px;
+    box-shadow:0px 0px 40px rgba(0,0,0,0.15);
+
+    
+ }
+ .all-orders{
+    background-color: rgb(233, 241, 238);
+   
+ }
+ .subtitle{
+    color:rgb(17, 0, 255);
+    font-family:sans-serif;
+ }

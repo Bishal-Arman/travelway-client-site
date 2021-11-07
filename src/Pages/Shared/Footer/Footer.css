@@ -1,0 +1,21 @@
+.footer{
+    background-color: rgba(0, 0, 0, 0.979);
+    padding:45px 0px;
+
+}
+.footer h2{
+   color: #42fa22;
+   font-size:35px;
+   font-family: cursive;
+}
+
+.footer p{
+    color: rgb(224, 199, 199);
+}
+.recognise span{
+    border-bottom: 1px dotted rgb(219, 143, 143);
+    padding-bottom: 5px;
+}
+.full-footer{
+    height: auto;
+}
